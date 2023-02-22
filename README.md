@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Srujan Rajpura</h1>
-<h3 align="center">A Intermediate Front-end Developer and Part-time Trader!!</h3>
+<h3 align="center">A Intermediate Front-end Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srujanrajpura&label=Profile%20views&color=0e75b6&style=flat" alt="srujanrajpura" /> </p>
 
 - 🔭 I’m currently working on **NGO's Website**
 
-- 🌱 I’m currently learning **NODE JS AND REACT**
+- 🌱 I’m currently learning **Angular**
 
 - 💬 Ask me about **HTML,CSS,JS AND BOOTSTRAP**
 

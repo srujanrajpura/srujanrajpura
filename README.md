@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **NGO's Website**
 
-- 🌱 I’m currently learning **node js**
+- 🌱 I’m currently learning **Angular**
 
 - 💬 Ask me about **HTML,CSS,JS AND BOOTSTRAP**
 
